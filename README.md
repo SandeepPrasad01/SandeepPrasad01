@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Prasad</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
 
-- 🌱 I’m currently learning **Software testing**
+- 🌱 I’m currently learning **Software Testing**
 
 - 📫 How to reach me **sandeepprasad0601@gmail.com**
 
